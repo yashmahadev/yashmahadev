@@ -37,17 +37,11 @@ I care about clean architecture, performance, and delivering real business value
 
 ### ⭐ Featured Projects
 
-<a href="https://github.com/yashmahadev/kryvox-ai-nexus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=kryvox-ai-nexus&hide_border=true&theme=default" />
-</a>
+[![Kryvox AI Nexus](https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=kryvox-ai-nexus&theme=default&hide_border=true&cache_seconds=1800)](https://github.com/yashmahadev/kryvox-ai-nexus)
 
-<a href="https://github.com/yashmahadev/taxi_management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=taxi_management&hide_border=true&theme=default" />
-</a>
+[![Taxi Management](https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=texi_management&theme=default&hide_border=true&cache_seconds=1800)](https://github.com/yashmahadev/texi_management)
 
-<a href="https://github.com/yashmahadev/legal_rag_chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=legal_rag_chatbot&hide_border=true&theme=default" />
-</a>
+[![Legal RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=leagl_rag_chatbot&theme=default&hide_border=true&cache_seconds=1800)](https://github.com/yashmahadev/leagl_rag_chatbot)
 
 ---
 
