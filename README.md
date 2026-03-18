@@ -38,7 +38,15 @@ I care about clean architecture, performance, and delivering real business value
 ### ⭐ Featured Projects
 
 <a href="https://github.com/yashmahadev?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=REPO1&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=kryvox-ai-nexus&hide_border=true" />
+</a>
+
+<a href="https://github.com/yashmahadev?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=texi_management&hide_border=true" />
+</a>
+
+<a href="https://github.com/yashmahadev?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=leagl_rag_chatbot &hide_border=true" />
 </a>
 
 ---
