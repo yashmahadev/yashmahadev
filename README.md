@@ -30,12 +30,12 @@ Brief explanation of what problem it solves and why it matters.
 
 Tech: Node.js • React • MongoDB  
 
-👉 https://github.com/your-repo
+👉 https://github.com/yashmahadev
 
 ---
 
 ### 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Portfolio: https://yourwebsite.com  
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/yash-mahadevwala
+- Portfolio: https://yash-mahadevwala-portfolio.vercel.app/
+- Email: yashmahadevwala00@gmail.com
