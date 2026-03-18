@@ -51,10 +51,6 @@ I care about clean architecture, performance, and delivering real business value
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=YOUR-MOST-STARRED-REPO" />
-
----
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmahadev" />
 
 ---
