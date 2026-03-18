@@ -46,7 +46,7 @@ I care about clean architecture, performance, and delivering real business value
 </a>
 
 <a href="https://github.com/yashmahadev?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=leagl_rag_chatbot &hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=leagl_rag_chatbot&hide_border=true" />
 </a>
 
 ---
