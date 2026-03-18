@@ -1,6 +1,17 @@
 ## Hi, I'm Yash Mahadev 👋  
 
-Full-Stack Software Engineer focused on building scalable web applications and backend systems.
+Full-Stack Software Engineer focused on building scalable, production-ready web applications and backend systems.
+I care about clean architecture, performance, and delivering real business value through software.
+
+---
+
+## 🧠 Engineering Focus
+
+- Designing scalable backend systems and RESTful APIs
+- Building modern full-stack applications
+- Writing maintainable, production-grade code
+- System design, performance, and reliability
+- Turning complex requirements into simple solutions
 
 ---
 
@@ -37,5 +48,10 @@ Tech: Node.js • React • MongoDB
 ### 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/yash-mahadevwala
-- Portfolio: https://yash-mahadevwala-portfolio.vercel.app/
+- Portfolio: https://yash-mahadevwala-portfolio.vercel.app
 - Email: yashmahadevwala00@gmail.com
+
+## ⚡ About Me
+
+I enjoy building systems that are reliable, scalable, and easy to use.  
+Always exploring better ways to design software and solve real-world problems.
