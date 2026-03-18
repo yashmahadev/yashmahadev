@@ -1,6 +1,7 @@
 ## Hi, I'm Yash Mahadev 👋  
 
 Full-Stack Software Engineer focused on building scalable, production-ready web applications and backend systems.
+
 I care about clean architecture, performance, and delivering real business value through software.
 
 ---
@@ -26,22 +27,27 @@ I care about clean architecture, performance, and delivering real business value
 
 ### 🛠️ Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, Java  
+**Languages:** PHP, JavaScript, Python  
 **Frontend:** React, Next.js, HTML, CSS  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, Docker, Linux  
+**Backend:** Node.js, Express, Laravel  
+**Database:** MongoDB, MySQL, MSSQL, PostGresql  
+**Tools:** Git, Docker, Linux, Windows  
 
 ---
 
 ### ⭐ Featured Projects
 
-#### 🔹 Project Name — Short Description
-Brief explanation of what problem it solves and why it matters.
+<a href="https://github.com/yashmahadev?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=REPO1&hide_border=true" />
+</a>
 
-Tech: Node.js • React • MongoDB  
+---
 
-👉 https://github.com/yashmahadev
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=YOUR-MOST-STARRED-REPO" />
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmahadev" />
 
 ---
 
