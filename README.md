@@ -38,19 +38,15 @@ I care about clean architecture, performance, and delivering real business value
 ### ⭐ Featured Projects
 
 <a href="https://github.com/yashmahadev/kryvox-ai-nexus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=kryvox-ai-nexus&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=kryvox-ai-nexus&hide_border=true&theme=default" />
 </a>
 
-<br/>
-
-<a href="https://github.com/yashmahadev/texi_management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=texi_management&hide_border=true" />
+<a href="https://github.com/yashmahadev/taxi_management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=taxi_management&hide_border=true&theme=default" />
 </a>
 
-<br/>
-
-<a href="https://github.com/yashmahadev/leagl_rag_chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=leagl_rag_chatbot&hide_border=true" />
+<a href="https://github.com/yashmahadev/legal_rag_chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashmahadev&repo=legal_rag_chatbot&hide_border=true&theme=default" />
 </a>
 
 ---
